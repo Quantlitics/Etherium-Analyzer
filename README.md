@@ -1,3 +1,3 @@
 # Etherium-Analyzer
 
-This is a project created by Sirut Busasai and I where the goal is to eventually create a neural network that will analyze market data and news articles to predict the price movement of the cryptocurrency Etherium. Neither of us have extensively used Pytorch in the past, so this project will be a new experience for the both of us. We will aim to incorporate data from financial APIs to assist our data analysis and visualization.
+This is a project created and owned by Sirut Busasai and Jason Dykstra. We aim to create a neural network model that analyze market data and news articles and prpedict the price movement of the cryptocurrency Etherium. Currently, we are aiming to use this project as a learning experience in using Pytorch and Tensorflow libraries. We also aim to incorporate data from financial APIs to assist our data analysis and visualization.
